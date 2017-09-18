@@ -1,4 +1,4 @@
-# haptik_challenge_E
+# Haptik Domain Classification
 
 Final Presentation for the challenge:
 
